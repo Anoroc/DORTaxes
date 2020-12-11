@@ -1,4 +1,4 @@
-# DORTaxes
+# DORTaxes (Pronounced Do Our Taxes)
 ### A very simple function that calculates sales including tax.
 
 ####Instructions
